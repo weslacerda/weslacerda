@@ -6,6 +6,7 @@
 
 [![WICODE](https://img.shields.io/badge/WICODE-wicode.dev.br-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wicode.dev.br)
 [![GitHub](https://img.shields.io/badge/GitHub-weslacerda-181717?style=for-the-badge&logo=github)](https://github.com/weslacerda)
+[![E-mail](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wicode.br@gmail.com)
 
 </div>
 
