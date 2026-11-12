@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**weslacerda/weslacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou Wesley Roberto 👋
 
-Here are some ideas to get you started:
+**Tecnologia, criatividade e soluções digitais.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![WICODE](https://img.shields.io/badge/WICODE-wicode.dev.br-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wicode.dev.br)
+[![GitHub](https://img.shields.io/badge/GitHub-weslacerda-181717?style=for-the-badge&logo=github)](https://github.com/weslacerda)
+
+</div>
+
+---
+
+## Sobre mim
+
+Sou Wesley Roberto, da **WICODE**, em Agudos — SP. Gosto de tecnologia e de transformar ideias em soluções digitais práticas.
+
+Este perfil reúne projetos, experimentos e aprendizados que fazem parte da minha jornada.
+
+## O que você encontra por aqui
+
+- Projetos e ferramentas que estou desenvolvendo
+- Experimentos com tecnologia
+- Ideias em evolução e aprendizados compartilhados
+
+## Vamos conversar?
+
+Conheça a **[WICODE](https://wicode.dev.br)** ou acompanhe meus projetos aqui no GitHub.
+
+<div align="center">
+
+**Obrigado por visitar meu perfil!** ⭐
+
+</div>
